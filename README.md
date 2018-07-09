@@ -17,6 +17,10 @@
 ## Open Data
 
 
+## Open courses
+
+- (Udacity)[Self-Driving Fundamentals: Featuring Apollo](https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419)
+
 ## Biomedical
 
 - [What are radiological deep learning models actually learning?](https://medium.com/@jrzech/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98) by John Zech

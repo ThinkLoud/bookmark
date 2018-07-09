@@ -3,6 +3,8 @@
 
 ## Articles
 
+- [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
+
 ## Papers
 
 ## Open sources
@@ -13,6 +15,4 @@
 
 
 ## Biomedical
-
-
 

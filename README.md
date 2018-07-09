@@ -3,7 +3,7 @@
 
 ## Articles
 
-- [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
+- [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/) by Sebastian Ruder.
 
 ## Papers
 

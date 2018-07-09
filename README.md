@@ -19,7 +19,7 @@
 
 ## Open courses
 
-- (Udacity)[Self-Driving Fundamentals: Featuring Apollo](https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419)
+- (Udacity) [Self-Driving Fundamentals: Featuring Apollo](https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419)
 
 ## Biomedical
 

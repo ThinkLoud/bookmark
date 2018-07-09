@@ -19,3 +19,4 @@
 ## Biomedical
 
 - [What are radiological deep learning models actually learning?](https://medium.com/@jrzech/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98) by John Zech
+   - [Confounding variables can degrade generalization performance of radiological deep learning models](https://arxiv.org/pdf/1807.00431.pdf)

@@ -3,6 +3,7 @@
 
 ## Articles
 
+- [Deep Learning Images For Google Cloud Engine, The Definitive Guide](https://blog.kovalevskyi.com/deep-learning-images-for-google-cloud-engine-the-definitive-guide-bc74f5fb02bc)
 - [Feature-wise transformations / Distill](https://distill.pub/2018/feature-wise-transformations/) A simple and surprisingly effective family of conditioning mechanisms.
 - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/) by Sebastian Ruder.
 - [The Natural Language Decathlon / Salesforce, Richard Socher](https://einstein.ai/research/the-natural-language-decathlon) This challenge spans ten tasks: question answering, machine translation, summarization, natural language inference, sentiment analysis, semantic role labeling, relation extraction, goal-oriented dialogue, database query generation, and pronoun resolution. The goal of the Decathlon is to explore models that generalize to all ten tasks and investigate how such models differ from those trained for single tasks. 

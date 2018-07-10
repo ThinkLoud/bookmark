@@ -3,6 +3,7 @@
 
 ## Articles
 
+- [AI Can Now Fix Your Grainy Photos by Only Looking at Grainy Photos](https://news.developer.nvidia.com/ai-can-now-fix-your-grainy-photos-by-only-looking-at-grainy-photos)
 - [Deep Learning Images For Google Cloud Engine, The Definitive Guide](https://blog.kovalevskyi.com/deep-learning-images-for-google-cloud-engine-the-definitive-guide-bc74f5fb02bc)
 - [Feature-wise transformations / Distill](https://distill.pub/2018/feature-wise-transformations/) A simple and surprisingly effective family of conditioning mechanisms.
 - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/) by Sebastian Ruder.

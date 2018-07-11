@@ -19,8 +19,9 @@
 ## Open Data
 
 
-## Open courses
+## Open courses & lectures
 
+- [ICML'18 Tutorial videos](https://t.co/XtuIx9j6GD)
 - (Udacity) [Self-Driving Fundamentals: Featuring Apollo](https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419)
 
 ## Biomedical

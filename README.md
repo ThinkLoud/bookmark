@@ -25,7 +25,7 @@
 
 ## Biomedical
 
-- (Bioinformatics)[Modeling polypharmacy side effects with graph convolutional networks](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770) / Jure Leskovec
+- (Bioinformatics) [Modeling polypharmacy side effects with graph convolutional networks](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770) by Jure Leskovec
 
 - [What are radiological deep learning models actually learning?](https://medium.com/@jrzech/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98) by John Zech
    - (Arxiv) [Confounding variables can degrade generalization performance of radiological deep learning models](https://arxiv.org/pdf/1807.00431.pdf)  The performance of CNNs in diagnosing diseases on x-rays may reflect not only their ability to identify disease-specific imaging findings on x-rays, but also their ability to exploit confounding information.

@@ -14,6 +14,7 @@
 
 ## Open sources
 
+- [GenSen: Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning](https://github.com/Maluuba/gensen)
 - [Glow: Better Reversible Generative Models / OpenAI](https://blog.openai.com/glow/)
 - [Horovod/Uber](https://github.com/uber/horovod) Horovod is a distributed training framework for TensorFlow, Keras, and PyTorch. The goal of Horovod is to make distributed Deep Learning fast and easy to use.
 

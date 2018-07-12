@@ -35,6 +35,8 @@
 
 ## Biomedical
 
+- (ICML'18 Tutorial) [(Slides) Machine Learning for Personalized Health](https://mlhealthtutorial.files.wordpress.com/2018/07/tutorial-ml-for-health1.pdf)
+
 - (Bioinformatics) [Modeling polypharmacy side effects with graph convolutional networks](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770) by Jure Leskovec
 
 - [What are radiological deep learning models actually learning?](https://medium.com/@jrzech/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98) by John Zech

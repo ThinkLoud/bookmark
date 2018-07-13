@@ -3,6 +3,7 @@
 
 ## Articles
 
+- [What do machine learning practitioners actually do?](http://www.fast.ai/2018/07/12/auto-ml-1/)
 - [VTA: An Open, Customizable Deep Learning Acceleration Stack / TVM](https://tvm.ai/2018/07/12/vta-release-announcement.html)
 - [Seedbank — discover machine learning examples](https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57?linkId=54191031)
 - [AI Can Now Fix Your Grainy Photos by Only Looking at Grainy Photos](https://news.developer.nvidia.com/ai-can-now-fix-your-grainy-photos-by-only-looking-at-grainy-photos)

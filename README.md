@@ -36,7 +36,7 @@
 
 ## Biomedical
 
-- [AI Helps Detect Prostate Cancer](https://news.developer.nvidia.com/ai-helps-detect-prostate-cancer/?ncid=nv--46100)
+- [AI Helps Detect Prostate Cancer / NVIDIA](https://news.developer.nvidia.com/ai-helps-detect-prostate-cancer/?ncid=nv--46100)
   - (Arvix)[Terabyte-scale Deep Multiple Instance Learning
 for Classification and Localization in Pathology](https://arxiv.org/pdf/1805.06983.pdf)
 

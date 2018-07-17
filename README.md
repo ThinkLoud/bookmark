@@ -36,6 +36,10 @@
 
 ## Biomedical
 
+- [AI Helps Detect Prostate Cancer](https://news.developer.nvidia.com/ai-helps-detect-prostate-cancer/?ncid=nv--46100)
+  - (Arvix)[Terabyte-scale Deep Multiple Instance Learning
+for Classification and Localization in Pathology](https://arxiv.org/pdf/1805.06983.pdf)
+
 - (ICML'18 Tutorial) [(Slides) Machine Learning for Personalized Health](https://mlhealthtutorial.files.wordpress.com/2018/07/tutorial-ml-for-health1.pdf)
 
 - (Bioinformatics) [Modeling polypharmacy side effects with graph convolutional networks](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770) by Jure Leskovec

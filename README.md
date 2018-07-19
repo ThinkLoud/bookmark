@@ -50,3 +50,6 @@ for Classification and Localization in Pathology](https://arxiv.org/pdf/1805.069
 - (Arxiv) [High-Resolution Breast Cancer Screening with Multi-View Deep Convolutional Neural Networks](https://arxiv.org/pdf/1703.07047.pdf) 
 
 
+## Quantum Computing
+
+- [An Open Source Framework for NISQ Algorithms / Google](https://ai.googleblog.com/2018/07/announcing-cirq-open-source-framework.html)

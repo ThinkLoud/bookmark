@@ -3,6 +3,7 @@
 
 ## Articles
 
+- [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7)
 - [What do machine learning practitioners actually do?](http://www.fast.ai/2018/07/12/auto-ml-1/)
 - [VTA: An Open, Customizable Deep Learning Acceleration Stack / TVM](https://tvm.ai/2018/07/12/vta-release-announcement.html)
 - [Seedbank — discover machine learning examples](https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57?linkId=54191031)

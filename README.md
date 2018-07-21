@@ -30,6 +30,9 @@
 
 ## Open Data
 
+- [NIH Clinical Center releases dataset of 32,000 CT images](https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images)
+
+
 
 ## Open courses & lectures
 

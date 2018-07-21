@@ -30,7 +30,8 @@
 
 ## Open Data
 
-- [NIH Clinical Center releases dataset of 32,000 CT images](https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images)
+- [DeepLesion: NIH Clinical Center releases dataset of 32,000 CT images](https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images)
+  - [DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deeplearning](https://nihcc.app.box.com/v/DeepLesion/file/306049009356)
 
 
 

@@ -42,6 +42,8 @@
 
 ## Biomedical
 
+- [How is the Doctor Feeling? ICU Provider Sentiment is Associated with Diagnostic Imaging Utilization](http://ghassemi.xyz/static/documents/Ghassemi_EMBC_2018.pdf)
+
 - [AI Helps Detect Prostate Cancer / NVIDIA](https://news.developer.nvidia.com/ai-helps-detect-prostate-cancer/?ncid=nv--46100)
   - (Arvix)[Terabyte-scale Deep Multiple Instance Learning
 for Classification and Localization in Pathology](https://arxiv.org/pdf/1805.06983.pdf)

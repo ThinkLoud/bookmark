@@ -1,5 +1,9 @@
 # bookmark
 
+## just bookmark
+
+- [Google Edge TPU Devices](https://aiyprojects.withgoogle.com/edge-tpu)
+
 
 ## Articles
 

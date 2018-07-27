@@ -2,6 +2,7 @@
 
 ## just bookmark
 
+- [The Natural Language Decathlon](http://decanlp.com/)
 - [Google Edge TPU Devices](https://aiyprojects.withgoogle.com/edge-tpu)
 
 

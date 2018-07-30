@@ -2,6 +2,7 @@
 
 ## just bookmark
 
+- [AllenNLP demo](http://demo.allennlp.org/machine-comprehension)
 - [The Natural Language Decathlon](http://decanlp.com/)
 - [Google Edge TPU Devices](https://aiyprojects.withgoogle.com/edge-tpu)
 

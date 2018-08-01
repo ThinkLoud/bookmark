@@ -67,4 +67,5 @@ for Classification and Localization in Pathology](https://arxiv.org/pdf/1805.069
 
 ## Quantum Computing
 
+- [Major Quantum Computing Advance Made Obsolete by Teenager - proving that classical computers can solve the “recommendation problem” nearly as fast as quantum computers.](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
 - [An Open Source Framework for NISQ Algorithms / Google](https://ai.googleblog.com/2018/07/announcing-cirq-open-source-framework.html)

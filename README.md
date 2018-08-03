@@ -50,7 +50,7 @@
 - (Udacity) [Self-Driving Fundamentals: Featuring Apollo](https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419)
 
 ## Biomedical
-
+- [(JAMA) Machine Learning for Prediction in Electronic Health Data](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2695072)
 - [How is the Doctor Feeling? ICU Provider Sentiment is Associated with Diagnostic Imaging Utilization](http://ghassemi.xyz/static/documents/Ghassemi_EMBC_2018.pdf)
 
 - [AI Helps Detect Prostate Cancer / NVIDIA](https://news.developer.nvidia.com/ai-helps-detect-prostate-cancer/?ncid=nv--46100)

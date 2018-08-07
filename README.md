@@ -23,6 +23,7 @@
 
 ## Papers
 
+- [Is Robustness the Cost of Accuracy? -- A Comprehensive Study on the Robustness of 18 Deep Image Classification Models](https://arxiv.org/abs/1808.01688)
 - [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes / Tencent](https://arxiv.org/abs/1807.11205)
 - [A/B Testing](https://eduardomazevedo.github.io/papers/azevedo-et-al-ab.pdf)
 - (SIGIR'18) [Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems](http://ir.ii.uam.es/pubs/sigir2018.pdf)

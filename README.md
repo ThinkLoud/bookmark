@@ -9,7 +9,7 @@
 
 ## Articles
 
-- [Now anyone can train Imagenet in 18 minutes](http://www.fast.ai/2018/08/10/fastai-diu-imagenet/)
+- [Now anyone can train Imagenet in 18 minutes / fast.ai](http://www.fast.ai/2018/08/10/fastai-diu-imagenet/)
 - [TensorFlow 1.9 Officially Supports the Raspberry Pi](https://medium.com/tensorflow/tensorflow-1-9-officially-supports-the-raspberry-pi-b91669b0aa0?linkId=55070050)
 - [Transfer Learning in Natural Language Processing - Universal Language Modeling](https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing)
 - [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7)

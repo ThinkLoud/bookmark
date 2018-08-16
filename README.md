@@ -55,7 +55,7 @@
 
 ## Biomedical
 
-- [Deep EHR: Chronic Disease Prediction Using Medical Notes /NYU](https://arxiv.org/pdf/1808.04928.pdf)
+- [Deep EHR: Chronic Disease Prediction Using Medical Notes / NYU](https://arxiv.org/pdf/1808.04928.pdf)
   - [code](https://github.com/NYUMedML/DeepEHR)
 - [(JAMA) Machine Learning for Prediction in Electronic Health Data](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2695072)
 - [How is the Doctor Feeling? ICU Provider Sentiment is Associated with Diagnostic Imaging Utilization](http://ghassemi.xyz/static/documents/Ghassemi_EMBC_2018.pdf)

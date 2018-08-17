@@ -8,6 +8,8 @@
 
 
 ## Articles
+
+- [PinSage: A New Graph Convolutional Neural Network for Web-Scale Recommender Systems](https://medium.com/@Pinterest_Engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48)
 - [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/@NetflixTechBlog/notebook-innovation-591ee3221233)
 - [Now anyone can train Imagenet in 18 minutes / fast.ai](http://www.fast.ai/2018/08/10/fastai-diu-imagenet/)
 - [TensorFlow 1.9 Officially Supports the Raspberry Pi](https://medium.com/tensorflow/tensorflow-1-9-officially-supports-the-raspberry-pi-b91669b0aa0?linkId=55070050)

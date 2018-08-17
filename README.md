@@ -26,6 +26,7 @@
 
 ## Papers
 
+- [Anatomy Of High-Performance Deep Learning Convolutions On SIMD Architectures / Intel](https://arxiv.org/pdf/1808.05567.pdf)
 - [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)
   - [code](https://github.com/facebookresearch/UnsupervisedMT)
 - [Is Robustness the Cost of Accuracy? -- A Comprehensive Study on the Robustness of 18 Deep Image Classification Models](https://arxiv.org/abs/1808.01688)

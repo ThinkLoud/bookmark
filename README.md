@@ -8,7 +8,7 @@
 
 
 ## Articles
-
+- [KDD'18 Tutorial : End to-end goal-oriented question answering systems](https://www.slideshare.net/QiHe2/kdd-2018-tutorial-end-toend-goaloriented-question-answering-systems-110817295)
 - [PinSage: A New Graph Convolutional Neural Network for Web-Scale Recommender Systems](https://medium.com/@Pinterest_Engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48)
 - [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/@NetflixTechBlog/notebook-innovation-591ee3221233)
 - [Now anyone can train Imagenet in 18 minutes / fast.ai](http://www.fast.ai/2018/08/10/fastai-diu-imagenet/)

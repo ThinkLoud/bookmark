@@ -44,6 +44,7 @@
 
 
 ## Open sources
+- [Fast, parallel implementations of tSNE](https://github.com/pavlin-policar/fastTSNE)
 - [open source driving agent](https://github.com/commaai/openpilot)
 - [Dopamine : a research framework for fast prototyping of reinforcement learning algorithms / Google](https://github.com/google/dopamine)
 - [GenSen: Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning](https://github.com/Maluuba/gensen)

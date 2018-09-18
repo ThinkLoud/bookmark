@@ -32,7 +32,7 @@
 - [The Natural Language Decathlon / Salesforce, Richard Socher](https://einstein.ai/research/the-natural-language-decathlon) This challenge spans ten tasks: question answering, machine translation, summarization, natural language inference, sentiment analysis, semantic role labeling, relation extraction, goal-oriented dialogue, database query generation, and pronoun resolution. The goal of the Decathlon is to explore models that generalize to all ten tasks and investigate how such models differ from those trained for single tasks. 
 
 ## Papers
-
+- [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/abs/1809.02165v1)
 - [Anatomy Of High-Performance Deep Learning Convolutions On SIMD Architectures / Intel](https://arxiv.org/pdf/1808.05567.pdf)
 - [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)
   - [code](https://github.com/facebookresearch/UnsupervisedMT)

@@ -69,6 +69,7 @@
 
 ## Biomedical
 
+- [Deep Learning with Electronic Health Record (EHR) Systems](https://goku.me/blog/EHR)
 - [Deep EHR: Chronic Disease Prediction Using Medical Notes / NYU](https://arxiv.org/pdf/1808.04928.pdf)
   - [code](https://github.com/NYUMedML/DeepEHR)
 - [(JAMA) Machine Learning for Prediction in Electronic Health Data](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2695072)

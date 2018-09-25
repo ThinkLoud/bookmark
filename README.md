@@ -8,6 +8,7 @@
 
 
 ## Articles
+- [TIME SERIES PREDICTION USING LSTM DEEP NEURAL NETWORKS](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
 - [(MLSS'18) Machine  Learning  and  Causal  Inference  for  (Reliable)  Decision  Support (slides)](https://www.dropbox.com/s/m233izdg1mzbee2/MLSS-18_final.pdf?dl=0)
 - [If AI is going to be the world’s doctor, it needs better textbooks](https://qz.com/1367177/if-ai-is-going-to-be-the-worlds-doctor-it-needs-better-textbooks/)
 - [Comparison of the Most Useful Text Processing APIs](https://activewizards.com/blog/comparison-of-the-most-useful-text-processing-apis/)

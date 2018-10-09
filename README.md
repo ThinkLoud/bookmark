@@ -8,6 +8,7 @@
 
 
 ## Articles
+- [Keras vs. TensorFlow – Which one is better and which one should I learn?](https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/)
 - [Automatic Kernel Optimization for Deep Learning on All Hardware Platforms / TVM](https://tvm.ai/2018/10/03/auto-opt-all.html)
 - [TIME SERIES PREDICTION USING LSTM DEEP NEURAL NETWORKS](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
 - [(MLSS'18) Machine  Learning  and  Causal  Inference  for  (Reliable)  Decision  Support (slides)](https://www.dropbox.com/s/m233izdg1mzbee2/MLSS-18_final.pdf?dl=0)
